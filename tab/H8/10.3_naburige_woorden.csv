@@ -1,0 +1,51 @@
+synoniem;rang;woord;score;freq;varianten
+lawijd;1;luidkeels;0,89;706;luidkeels, luidheels, luikeels, ludkeels, luitkeels, lindkeels
+lawijd;2;tieren;0,84;386;tieren, tierende, tierden
+lawijd;3;stoorde;0,83;1081;stoorde, stooren, stoorden, stoonde, stoord, storden, stoode
+lawijd;4;nachtrust;0,83;975;nachtrust, nachtruit, nachtrast, nachtrest, nachteust
+lawijd;5;schreeuwen;0,82;214;schreeuwen, schreuwen, schreeuwde, schreewen, schreeuwende
+lawijd;6;inwoners;0,79;1433;inwoners, inwooners, inwoner, inwoonders, inwooner, inwonens, iwoners, inwonders, inwonners
+lawijd;7;twist;0,78;733;twist, twiste
+lawijd;8;zwijgen;0,78;174;zwijgen, zwigen, zwygen
+lawijd;9;twisten;0,78;458;twisten, twesten, twistende, tuisten, twister
+lawijd;10;aanmaande;0,76;103;aanmaande, aanmaanden
+kabaal;1;aanmaande;0,78;103;aanmaande, aanmaanden
+kabaal;2;voortging;0,75;101;voortging, voortgingen
+kabaal;3;tieren;0,72;386;tieren, tierende, tierden
+kabaal;4;twisten;0,71;458;twisten, twesten, twistende, tuisten, twister
+kabaal;5;verwekte;0,71;1634;verwekte, verwekten, verwek, verwerkte, verwelte, verwette, vorwekte, verwoekte, verzekte, verwekter
+kabaal;6;begon;0,71;1201;begon
+kabaal;7;schelden;0,7;177;schelden
+kabaal;8;luidkeels;0,7;706;luidkeels, luidheels, luikeels, ludkeels, luitkeels, lindkeels
+kabaal;9;bedreigde;0,7;217;bedreigde, bedreigen, bedreig, bedrijgde
+kabaal;10;wanorders;0,68;5562;wanorders, wanordens, wanonders, wonorders, wanordes, wannordes, wannorder, wanoeders
+lawaai;1;luidkeels;0,82;706;luidkeels, luidheels, luikeels, ludkeels, luitkeels, lindkeels
+lawaai;2;stoorde;0,82;1081;stoorde, stooren, stoorden, stoonde, stoord, storden, stoode
+lawaai;3;inwoners;0,82;1433;inwoners, inwooners, inwoner, inwoonders, inwooner, inwonens, iwoners, inwonders, inwonners
+lawaai;4;schreeuwen;0,81;214;schreeuwen, schreuwen, schreeuwde, schreewen, schreeuwende
+lawaai;5;tieren;0,79;386;tieren, tierende, tierden
+lawaai;6;twisten;0,78;458;twisten, twesten, twistende, tuisten, twister
+lawaai;7;nachtrust;0,78;975;nachtrust, nachtruit, nachtrast, nachtrest, nachteust
+lawaai;8;twist;0,75;733;twist, twiste
+lawaai;9;hevig;0,74;509;hevig
+lawaai;10;ruzie;0,74;412;ruzie
+rumoer;1;luidkeels;0,84;706;luidkeels, luidheels, luikeels, ludkeels, luitkeels, lindkeels
+rumoer;2;stoorde;0,83;1081;stoorde, stooren, stoorden, stoonde, stoord, storden, stoode
+rumoer;3;nachtrust;0,82;975;nachtrust, nachtruit, nachtrast, nachtrest, nachteust
+rumoer;4;inwoners;0,81;1433;inwoners, inwooners, inwoner, inwoonders, inwooner, inwonens, iwoners, inwonders, inwonners
+rumoer;5;schreeuwen;0,8;214;schreeuwen, schreuwen, schreeuwde, schreewen, schreeuwende
+rumoer;6;tieren;0,8;386;tieren, tierende, tierden
+rumoer;7;twisten;0,77;458;twisten, twesten, twistende, tuisten, twister
+rumoer;8;gestoord;0,75;212;gestoord, gestoort
+rumoer;9;gezongen;0,71;120;gezongen
+rumoer;10;twist;0,71;733;twist, twiste
+gerucht;1;luidkeels;0,77;706;luidkeels, luidheels, luikeels, ludkeels, luitkeels, lindkeels
+gerucht;2;gehoord;0,76;1648;gehoord, gehoort, gehood, gehourd, gehaord
+gerucht;3;inwoners;0,75;1433;inwoners, inwooners, inwoner, inwoonders, inwooner, inwonens, iwoners, inwonders, inwonners
+gerucht;4;schreeuwen;0,75;214;schreeuwen, schreuwen, schreeuwde, schreewen, schreeuwende
+gerucht;5;tieren;0,75;386;tieren, tierende, tierden
+gerucht;6;nachtrust;0,74;975;nachtrust, nachtruit, nachtrast, nachtrest, nachteust
+gerucht;7;gestoord;0,72;212;gestoord, gestoort
+gerucht;8;stoorde;0,72;1081;stoorde, stooren, stoorden, stoonde, stoord, storden, stoode
+gerucht;9;twisten;0,69;458;twisten, twesten, twistende, tuisten, twister
+gerucht;10;zwijgen;0,69;174;zwijgen, zwigen, zwygen

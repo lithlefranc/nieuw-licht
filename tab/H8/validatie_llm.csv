@@ -1,0 +1,11 @@
+label,voorspellingen,correcties,precisie,recall,F1
+deurbellen,213,180,0.803,0.95,0.87
+zingen,152,205,0.961,0.712,0.818
+lawaai maken,530,422,0.711,0.893,0.792
+nachtrust verstoren,459,447,0.765,0.785,0.775
+herbergmuziek,66,79,0.833,0.696,0.759
+schelden,108,189,0.926,0.529,0.673
+roepen,921,514,0.496,0.889,0.637
+straatmuziek,27,21,0.519,0.667,0.583
+verkeersgeluid,29,34,0.414,0.353,0.381
+totaal/gemiddelde,2505,2091,0.714,0.719,0.699

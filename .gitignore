@@ -1,0 +1,13 @@
+# De onderzoeksdata worden niet gepubliceerd (zie README)
+data/
+
+# macOS
+.DS_Store
+._*
+
+# Jupyter en Python
+.ipynb_checkpoints/
+__pycache__/
+
+# Office-tijdelijke bestanden
+~$*

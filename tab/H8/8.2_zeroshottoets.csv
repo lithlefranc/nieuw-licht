@@ -1,0 +1,7 @@
+versie;conditie;TP;FP;FN;geschatte_lawaaiklachten;precisie;precisie_laag;precisie_hoog;recall;recall_laag;recall_hoog;F1;F1_laag;F1_hoog
+hersteld;few-shot;49;20;2;795;0,71;0,6;0,812;0,961;0,902;1,0;0,817;0,734;0,885
+hersteld;zero-shot;47;37;4;795;0,56;0,453;0,663;0,922;0,843;0,981;0,696;0,602;0,776
+hersteld;verschil zero − few;;;;;-0,151;-0,251;-0,046;-0,039;-0,118;0,036;-0,12;-0,203;-0,039
+blind;few-shot;37;32;4;639;0,536;0,412;0,648;0,902;0,8;0,979;0,673;0,558;0,765
+blind;zero-shot;36;48;5;639;0,429;0,325;0,533;0,878;0,771;0,971;0,576;0,467;0,672
+blind;verschil zero − few;;;;;-0,108;-0,189;-0,023;-0,024;-0,128;0,082;-0,097;-0,177;-0,016
